@@ -1,0 +1,5 @@
+theme : beige
+theme-override : assets/css/PITCHME.css
+transition : slide
+logo : assets/images/yaapita_logo.png
+logo-position : top-right
