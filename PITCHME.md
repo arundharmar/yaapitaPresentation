@@ -135,11 +135,7 @@ Note: Quick snapshot of the test results. Can be used for BAs, Scrum masters and
 
 Kroger Technology, Digital, Merchandising, Marketing
 [Most of the Clicklist teams]
-- THOR
-- Village People
-- Autobots
-- Decepticons
-- Dinabots
+- THOR, Village People
+- Autobots, Decepticons, Dinabots
 - Predacons
-- Night's Watch
-- Nerf Herders ...
+- Night's Watch, Nerf Herders ...
