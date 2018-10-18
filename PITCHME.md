@@ -131,11 +131,11 @@ Note: Quick snapshot of the test results. Can be used for BAs, Scrum masters and
     
 #HSLIDE
 
-
 ## yaAPIta in Kroger
 
+- Kroger Technology, Digital, Merchandising, Marketing
+- Most of the Clicklist teams
 - THOR
-- ODIN
 - Village People
 - Autobots
 - Decepticons
