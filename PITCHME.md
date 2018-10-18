@@ -14,6 +14,7 @@
 ## Why?
 
 - Open Source
+- Data Driven
 - Extensible
 - Collaboration (Devs, QA)
 - Detailed reporting
@@ -25,7 +26,7 @@ Note: Developers will be able to setup the script and run without testers interf
 
 ## Architecture
 
-![yaAPIta_Architecture](assets/images/yaAPIta_Architecture.png)
+![yaAPIta_Architecture](assets/images/yaapita_architecture.png)
 
 #VSLIDE
 
@@ -96,10 +97,6 @@ test{
 
 #HSLIDE
 
-# Reporting
-
-#VSLIDE
-
 ### Reporting
 
 Initialize report
@@ -134,11 +131,8 @@ Note: Quick snapshot of the test results. Can be used for BAs, Scrum masters and
     
 #HSLIDE
 
-# yaAPIta in Digital
 
-#VSLIDE
-
-## yaAPIta in Digital
+## yaAPIta in Kroger
 
 - THOR
 - ODIN
