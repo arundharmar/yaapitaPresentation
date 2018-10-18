@@ -133,8 +133,8 @@ Note: Quick snapshot of the test results. Can be used for BAs, Scrum masters and
 
 ## yaAPIta in Kroger
 
-- Kroger Technology, Digital, Merchandising, Marketing
-- Most of the Clicklist teams
+Kroger Technology, Digital, Merchandising, Marketing
+[Most of the Clicklist teams]
 - THOR
 - Village People
 - Autobots
